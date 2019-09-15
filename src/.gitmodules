@@ -1,0 +1,4 @@
+[submodule "eventex"]
+	path = eventex
+	url = https://github.com/nogsantos/wttd
+	branch = master

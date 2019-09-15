@@ -1,4 +1,3 @@
-[submodule "eventex"]
-	path = eventex
-	url = https://github.com/nogsantos/wttd
-	branch = master
+[submodule "src/eventex"]
+	path = src/eventex
+	url = git@github.com:nogsantos/eventex.git

@@ -1,6 +1,6 @@
 # Módulo 1
 
-## O que aprendi
+## Resumo
 
 Python foi uma linguagem inicialmente escrita por Guido van Rossum
 

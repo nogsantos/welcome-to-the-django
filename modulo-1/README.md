@@ -129,7 +129,7 @@ Uma biblioteca python que segue algumas convensões do django
 manage startapp [nome]
 ```
 
-## Expessão regular para subistituir valores
+## Expessão regular para substituir valores
 
 Seleciona todas as propriedades `src e hrf` que pertencem as tags `img, css e js`
 

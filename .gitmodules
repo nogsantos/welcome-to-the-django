@@ -1,6 +1,8 @@
 [submodule "src/eventex"]
 	path = src/eventex
 	url = git@github.com:nogsantos/eventex.git
+	branch = master
 [submodule "src/google-python-exercises"]
 	path = src/google-python-exercises
 	url = git@github.com:nogsantos/google-python-exercises.git
+	branch = master

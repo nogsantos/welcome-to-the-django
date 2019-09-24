@@ -6,3 +6,7 @@
 	path = src/google-python-exercises
 	url = git@github.com:nogsantos/google-python-exercises.git
 	branch = master
+[submodule "src/fizzbuzz"]
+	path = src/fizzbuzz
+	url = git@github.com:nogsantos/fizzbuzz.git
+	branch = master
